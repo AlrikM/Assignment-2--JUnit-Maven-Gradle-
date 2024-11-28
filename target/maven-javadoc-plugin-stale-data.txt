@@ -1,0 +1,62 @@
+@options
+@argfile
+-classpath
+'C:/Users/Gamers/Documents/MavenDesktop/Library/target/classes;C:/Users/Gamers/Documents/MavenDesktop/Library/target/test-classes;C:/Users/Gamers/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar;C:/Users/Gamers/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/Gamers/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar;C:/Users/Gamers/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar;C:/Users/Gamers/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar;C:/Users/Gamers/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Gamers/Documents/MavenDesktop/Library/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Gamers/Documents/MavenDesktop/Library/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT Test API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT Test API'
+'C:/Users/Gamers/Documents/MavenDesktop/Library/src/test/java/BookCatalogTest.java'
+'C:/Users/Gamers/Documents/MavenDesktop/Library/src/test/java/BookTest.java'
+'C:/Users/Gamers/Documents/MavenDesktop/Library/src/test/java/LoanTest.java'
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\classes = 1732813370559
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\test-classes = 1732813376055
+C:\Users\Gamers\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar = 1732800274502
+C:\Users\Gamers\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1732800274356
+C:\Users\Gamers\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar = 1732800274441
+C:\Users\Gamers\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar = 1732800274397
+C:\Users\Gamers\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar = 1732800274594
+C:\Users\Gamers\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar = 1732800274467
+C:\Users\Gamers\Documents\MavenDesktop\Library\src\test\java\BookCatalogTest.java = 1732813485452
+C:\Users\Gamers\Documents\MavenDesktop\Library\src\test\java\BookTest.java = 1732813485461
+C:\Users\Gamers\Documents\MavenDesktop\Library\src\test\java\LoanTest.java = 1732802289736
+C:\Users\Gamers\Documents\MavenDesktop\Library\src\test\java = 1732813485462
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\allclasses-index.html = 1732813489672
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\allpackages-index.html = 1732813489674
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\BookCatalogTest.html = 1732813489620
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\element-list = 1732813489631
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\help-doc.html = 1732813489696
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\index-all.html = 1732813489686
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\index.html = 1732813489689
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\jquery-ui.overrides.css = 1732813489714
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\LoanTest.html = 1732813489629
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\member-search-index.js = 1732813489677
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\module-search-index.js = 1732813489675
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\overview-tree.html = 1732813489656
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\package-search-index.js = 1732813489676
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\package-summary.html = 1732813489639
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\package-tree.html = 1732813489643
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\package-use.html = 1732813489654
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\script.js = 1732813489705
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\search.js = 1732813489707
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\stylesheet.css = 1732813489699
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\tag-search-index.js = 1732813489679
+C:\Users\Gamers\Documents\MavenDesktop\Library\target\site\testapidocs\type-search-index.js = 1732813489677
