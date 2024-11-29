@@ -4,11 +4,17 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * Done
+ */
 public class BookCatalogTest {
 
 	private BookCatalog bc;
 	private Book book1;
 
+	/**
+	 * Constructor for test
+	 */
 	public BookCatalogTest() {
 		bc = new BookCatalog();
 		book1 = new Book(1,"Learning Java","","","",0);
@@ -26,7 +32,7 @@ public class BookCatalogTest {
 
 	//G
 	/**
-	return Book object after "findbook" function.
+	Make sure equals Book object after "findbook" function.
 	 */
 	@Test
 	public void testFindBook() {
@@ -65,9 +71,13 @@ public class BookCatalogTest {
 
 	//VG
 	// This test should throw BookNotFoundException in order to pass.
+	/**
+	 * @throws BookNotFoundException
+	 * Makes sure function will throw exception.
+	 */
 	@Test
 	public void testFindBookThatDoesntExist() throws BookNotFoundException {
-
+		assertThrows(BookNotFoundException.class, () -> bc.findBook("Learning  Java"));
 	}
 
 }

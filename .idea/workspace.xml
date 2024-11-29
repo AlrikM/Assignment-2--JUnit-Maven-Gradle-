@@ -4,7 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b49bd812-594c-40e6-9230-841794b6044d" name="Changes" comment="" />
+    <list default="true" id="b49bd812-594c-40e6-9230-841794b6044d" name="Changes" comment="First commmit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookCatalogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookCatalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookCatalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookNotFoundException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Loan.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Loan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanAlreadyExistsException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanAlreadyExistsException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanNotFoundException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Material.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Material.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookCatalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookCatalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookNotFoundException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Loan.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Loan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanAlreadyExistsException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanAlreadyExistsException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanNotFoundException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Material.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Material.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/GenderType.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/GenderType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/LoanStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/LoanStatus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/GenderType.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/GenderType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/LoanStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/LoanStatus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/BookCatalogTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/LoanTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/class-use/BookCatalogTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/class-use/LoanTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery-ui.overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/script-dir/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/BookCatalogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/BookCatalogTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LoanTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LoanTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-BookCatalogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-BookCatalogTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-BookTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoanTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BookCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookCatalogTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoanTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +107,25 @@
       </list>
     </option>
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlrikM&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlrikM/Assignment-2--JUnit-Maven-Gradle-.git&quot;,
+    &quot;accountId&quot;: &quot;c206d688-2016-4ea5-a416-10aeba0c8d32&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -28,49 +133,59 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2pTbq4Sy1EQ8hYrmsOLWjFIdAV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.BookCatalogTest.executor": "Run",
-    "JUnit.BookCatalogTest.testAddABook.executor": "Run",
-    "JUnit.BookCatalogTest.testFindBook.executor": "Run",
-    "JUnit.BookCatalogTest.testFindBookIgnoringCase.executor": "Run",
-    "JUnit.BookCatalogTest.testFindBookWithExtraSpaces.executor": "Run",
-    "JUnit.BookTest.test2EqualBooks.executor": "Run",
-    "JUnit.BookTest.test2NonEqualBooks.executor": "Run",
-    "Maven.Library [clean].executor": "Run",
-    "Maven.Library [compile].executor": "Run",
-    "Maven.Library [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
-    "Maven.Library [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile].executor": "Run",
-    "Maven.Library [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:testCompile].executor": "Run",
-    "Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:aggregate].executor": "Run",
-    "Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:javadoc].executor": "Run",
-    "Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:test-jar].executor": "Run",
-    "Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:test-javadoc].executor": "Run",
-    "Maven.Library [org.apache.maven.plugins:maven-surefire-plugin:3.2.5:test].executor": "Run",
-    "Maven.Library [package].executor": "Run",
-    "Maven.Library [test].executor": "Run",
-    "Maven.Library [validate,compile,test,package].executor": "Run",
-    "Maven.Library [validate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/Gamers/Documents/MavenDesktop/Library/src/test/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.BookCatalogTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookCatalogTest.testAddABook.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookCatalogTest.testFindBook.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookCatalogTest.testFindBookIgnoringCase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookCatalogTest.testFindBookThatDoesntExist.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookCatalogTest.testFindBookWithExtraSpaces.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookTest.test2EqualBooks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookTest.test2NonEqualBooks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoanTest.testDueDate.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [compile,,test,,javadoc:javadoc,...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [compile,,test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [compile,test,javadoc:javadoc...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:testCompile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:aggregate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:javadoc].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:test-jar].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:test-javadoc].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [org.apache.maven.plugins:maven-surefire-plugin:3.2.5:test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [validate,compile,test,package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Library.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Gamers/Documents/MavenDesktop/Library/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gamers/Documents/MavenDesktop/Library&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Gamers\Documents\MavenDesktop\Library\src\main\java\se\yrgo" />
@@ -99,22 +214,20 @@
       <visibility group="org.jetbrains.plugins.gradle.execution.GradleRunAnythingProvider" flag="true" />
       <visibility group="yarn" flag="true" />
     </myKeys>
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn compile, test" />
+      <command value="mvn compile, test, javadoc:javadoc, package" />
+      <command value="mvn compile test javadoc:javadoc package" />
+      <command value="mvn " />
+    </option>
   </component>
-  <component name="RunManager" selected="JUnit.BookTest.test2NonEqualBooks">
-    <configuration name="BookCatalogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LoanTest.testDueDate">
+    <configuration name="BookCatalogTest.testFindBookThatDoesntExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Library" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BookCatalogTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookCatalogTest.testFindBookIgnoringCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Library" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BookCatalogTest" />
-      <option name="METHOD_NAME" value="testFindBookIgnoringCase" />
+      <option name="METHOD_NAME" value="testFindBookThatDoesntExist" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,13 +263,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoanTest.testDueDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoanTest" />
+      <option name="METHOD_NAME" value="testDueDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LoanTest.testDueDate" />
+        <item itemvalue="JUnit.BookCatalogTest.testFindBookThatDoesntExist" />
         <item itemvalue="JUnit.BookTest.test2NonEqualBooks" />
         <item itemvalue="JUnit.BookTest.test2EqualBooks" />
         <item itemvalue="JUnit.BookCatalogTest.testFindBookWithExtraSpaces" />
-        <item itemvalue="JUnit.BookCatalogTest" />
-        <item itemvalue="JUnit.BookCatalogTest.testFindBookIgnoringCase" />
       </list>
     </recent_temporary>
   </component>
@@ -177,11 +300,27 @@
       <option name="presentableId" value="Default" />
       <updated>1732793200199</updated>
       <workItem from="1732793201280" duration="3296000" />
-      <workItem from="1732796519371" duration="16868000" />
+      <workItem from="1732796519371" duration="17462000" />
+      <workItem from="1732878903129" duration="4892000" />
+      <workItem from="1732884207424" duration="111000" />
+      <workItem from="1732885737890" duration="19000" />
+      <workItem from="1732892547555" duration="625000" />
     </task>
+    <task id="LOCAL−00001" summary="First commmit">
+      <option name="closed" value="true" />
+      <created>1732813633254</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1732813633254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commmit" />
   </component>
 </project>
