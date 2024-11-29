@@ -8,4 +8,4 @@ Test: executes defined test in your project.
 
 JavaDoc: Generates JavaDoc API documentation for the 'main' feature.
 
-Jar: Assembles a jar filr containing classes from 'main' java file.
+Jar: Assembles a jar file containing classes from 'main' java file.
